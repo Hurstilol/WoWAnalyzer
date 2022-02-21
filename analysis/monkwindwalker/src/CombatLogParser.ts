@@ -26,6 +26,7 @@ import CooldownThroughputTracker from './modules/features/CooldownThroughputTrac
 import JadeIgnition from './modules/items/JadeIgnition';
 import LastEmperorsCapacitor from './modules/items/LastEmperorsCapacitor';
 import XuensBattlegear from './modules/items/XuensBattlegear';
+import T28_4_Set from './modules/items/28_4_Set';
 // Resources
 import ChiDetails from './modules/resources/ChiDetails';
 import ChiTracker from './modules/resources/ChiTracker';
@@ -78,6 +79,7 @@ class CombatLogParser extends CoreCombatLogParser {
     lastEmperorsCapacitor: LastEmperorsCapacitor,
     jadeIgnition: JadeIgnition,
     xuensBattleGear: XuensBattlegear,
+    t28_4_Set: T28_4_Set,
 
     // Covenants
     fallenOrder: FallenOrder,
