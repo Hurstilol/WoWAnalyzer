@@ -90,6 +90,7 @@ class CombatLogParser extends CoreCombatLogParser {
     innerFury: InnerFury,
     coordinatedOffensive: CoordinatedOffensive,
     calculatedStrikes: CalculatedStrikes,
+    boneMarrowHops: BoneMarrowHops,
   };
 }
 
