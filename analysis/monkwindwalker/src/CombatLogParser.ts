@@ -8,6 +8,7 @@ import {
   FaelineHarmony,
   SinisterTeachings,
   ImbuedReflections,
+  BoneMarrowHops,
 } from '@wowanalyzer/monk';
 
 // Features
